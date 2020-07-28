@@ -1,12 +1,21 @@
 ## Slide 1: Intro - Dale
 
-Hello, good evening everyone. We are group one and we’re here to present our 2020 intern project challenge.
-My Name is Draven Dale Calabia , … (yous introduce yourselves)….
+Hello, good evening everyone. We are the first group and we’re here to present our 2020 intern project challenge.
+My Name is Draven Dale Calabia and I'm joint with Ali, Lara, Sophie, Graham, Brian and Monika
+
 Our topic of discussion is as you can see on the screen. In short, we’re being asking, what do we believe that future workforce will look like post-covid 19 and how important we think it is to maintain social interactions.
-To further strengthen our points, we’ve made a short survey that we gave to our colleges and friends outside of fidelity. And you’ll hear us reference this survey throughout our presentation.
+
+We believe that working from home will play a vital role in the future.
+To further strengthen our points, we’ve made a short survey that we gave to our colleges and friends outside of fidelity. And you’ll hear us reference this survey throughout our presentation. But one of our most important questions on our our survey is 
+
+## Slide 2: Survey - Dale
+
+What are the TOP THREE biggest challenges you are currently facing while working remotely? 
+So we gave them some options to choose from like internet connectivity, childcare, social interaction. The top 3 problems were Communication, keeping a regular schedule and your work environment. So throughout our survey we focused on these 3 points and gave our solutions based on our thoughts and survey results.
 
 
-## Slide 2: the new Normal - Sophie
+
+## Slide 3: The New Normal - Sophie
 
 Within 2 weeks fidelity ireland went fully remote, meaning approximately 1100 employees are working from home. The covid 19 pandemic has affected us all yet fidelity;s quick thinking and agile workforce kept up momentum and proved that with the right equipment and constant streams of communication and support we are able to work efficiently from home without damaging fidelitys reputation or customer satisfaction. 
 
@@ -14,88 +23,83 @@ My internship experience will differ to any past fidelity interns as I never got
 
 Im very lucky to have gained the experience of working through covid 19 as many other college student had their internships cancelled as they business was unable to give adequate training virtually. The fact that fidelity were hiring and not firing over the last few months shows that even though working from home may be the new normal its business as usual. 
 
-## Slide 3: How will decentralised teams collaborate? - Graham
+## Slide 4: How will decentralised teams collaborate? - Graham
 
 Collaboration Day:
 
 If everyone in the team is able to travel to the office, a collaboration day may be implemented. This involves everyone in the team meeting in the office and they are supplied with a respectively sized fully equipped room with collaboration tools inside. E.g: Whiteboard, desks, Zoom conference setup for anyone missing. This would not require a permanent office presence as it may be once a week or month.
 
-Team available to travel
-Team meet in equipped room with collab tools
-Does not require permanent office presence
+* Team available to travel
+* Team meet in equipped room with collab tools
+* Does not require permanent office presence
 
-## Slide 4: How will decentralised teams collaborate? - Graham
+## Slide 5: How will decentralised teams collaborate? - Graham
 
-No point wasting time, keep it short as it needs to be.
-
-Use the tools given to you to your advantage
-
-Allows team members who are non critical to the meeting at hand work on other stuff 
-
-Keeping the group on topic is the most important thing, keeps momentum going
-
-## Slide 5: Technologies and Tools - Lara
-
-Fidelity already provides fantastic tools and resources to its associates 
-It's important to acknowledge that 
-So much can be done with them
-and they May not being used at their best
-So, Before thinking about new tools:	
-Train people on the capabilities of the existing tools to use them on their extent
+* No point wasting time, keep it short as it needs to be.
+* Use the tools given to you to your advantage
+* Allows team members who are non critical to the meeting at hand work on other stuff 
+* Keeping the group on topic is the most important thing, keeps momentum going
 
 ## Slide 6: Technologies and Tools - Lara
 
+* Fidelity already provides fantastic tools and resources to its associates 
+* It's important to acknowledge that 
+* So much can be done with them
+* and they May not being used at their best
+* So, Before thinking about new tools:	
+    * Train people on the capabilities of the existing tools to use them on their extent
+
+## Slide 7: Technologies and Tools - Lara
+
 We have some suggestions of tools that may be needed:
+1) Time management
+* For People may need help to schedule breaks and their lunch time, for example
+* Maybe provide Kanban board to create To Do lists
+* Fidelity can Help people to get Focus time using tools like: 
+	* Pomodoro technique
+		* uses a timer to break down work into intervals
+		* Divided by short breaks
 
-Time management
-For People may need help to schedule breaks and their lunch time, for example
-Maybe provide Kanban board to create To Do lists
-Fidelity can Help people to get Focus time using tools like: 
-Pomodoro technique
-uses a timer to break down work into intervals
-Divided by short breaks
 
-
-2. Screen recording or Screen to GIF
-Quickly record something and send in teams
+2) Screen recording or Screen to GIF
+* Quickly record something and send in teams
 
 3. Mobile hot spots
-Support Work from anywhere
-We suggest using the corporate phones or BYOD program to achieve that
+* Support Work from anywhere
+* We suggest using the corporate phones or BYOD program to achieve that
 
 
-4. Pair Working
-When you’re in the office, it’s easy to sit behind someone and what they working on
-Online, it’s can be hard to do that – requires a zoom meeting, screen share, sometimes Zoom crashes, etc.
-The ideal solution would be that you people can see the changes being in real time, each on their own laptops
-This would make it easier to shadow someone working, learning a new tool and to pair program
-Looking into Visual Studio Live Share:
-Shared codebase but each person to navigate and work independently
-Voice included
+4) Pair Working
+* When you’re in the office, it’s easy to sit behind someone and what they working on
+* Online, it’s can be hard to do that – requires a zoom meeting, screen share, sometimes Zoom crashes, etc.
+* The ideal solution would be that you people can see the changes being in real time, each on their own laptops
+* This would make it easier to shadow someone working, learning a new tool and to pair program
+* Looking into Visual Studio Live Share:
+	* Shared codebase but each person to navigate and work independently
+	* Voice included
 
 
-5. Workspace
-Printer, scanner and locker depending on their role
-Desk and chairs - Ergonomics and well being of associates
-Suggestion: there are lots of local Ireland designers – Through CSR, Partner with them, selection of sizes and models, promoting local business
+5) Workspace
+* Printer, scanner and locker depending on their role
+* Desk and chairs - Ergonomics and well being of associates
+* Suggestion: there are lots of local Ireland designers – Through CSR, Partner with them, selection of sizes and models, promoting local business
 
-## Slide 7: Social Interaction - Ali
+## Slide 8: Social Interaction - Ali
 
 Social Interactions are extremely valued within organisations. As you can see from our survey results social isolation and communication with co-workers are major challenges that people face from WFH. Not only are social interactions good for your mental health, but they also help with productivity. The happier you are, the more likely you are to be productive.
  It is important to note that not every associate is living with their family or friends, so their social interactions in the workplace may be the only ones they have day-day. Therefore, it is vital that we maintain social interactions across dispersed teams and take advantage of our readily available collaboration tools that provide face-face contact like zoom or skype. Face-face contact is essential for creating relationships with one another. 
 
-Coffee break
-Team quiz
-Collaborative activity
-Book club
-Team walk
-Team lunch
-Virtual entertainment
-Buddy scheme
-Daily social time
+* Coffee break
+* Team quiz
+* Collaborative activity
+* Book club
+* Team walk
+* Team lunch
+* Virtual entertainment
+* Buddy scheme
+* Daily social time
 
-
-## Slide 8: Work-Life Balance - Monika
+## Slide 9: Work-Life Balance - Monika
 
 Setting up a good work-life balance can be difficult so we have a few tips for you guys. 
 Wake up and get up – make sure you AVOID staying in bed until the very last minute (as tempting as it may be). Getting up and out of bed will make you feel more awake.  
@@ -109,50 +113,62 @@ Now the most important one "Go home" on time - It's important to know when to st
 Also, a suggestion we had while discussing this topic was to have workshops for employees on how to set up a good routine so that might be something worth looking into. 
 
 
-## Slide 9: Physical and Mental Wellbeing while Working-from-home - Brian
+## Slide 10: Physical and Mental Wellbeing while Working-from-home - Brian
 
-1.       By virtue of the fact that we do need ‘travel to the office’, many end up engaging in considerably less physical activity while working-from-home.
+1. By virtue of the fact that we do need ‘travel to the office’, many end up engaging in considerably less physical activity while working-from-home.
+
 Such basic physical activity like walking to and from ones car/ to and from public transport or while on lunch break are eliminated while at home.  As such, people’s mental wellbeing can be hindered considerably should physical activity be reduced.
-2.       Teams can implement regular exercise challenges/ team-goals, making use of apps such as MMR and Strava to encourage greater physical activity while working from home. Although offices will be reopening and peoples activity will increase -we feel these events should be encouraged for those who favour working from home and will continue to do so. 
+
+2. Teams can implement regular exercise challenges/ team-goals, making use of apps such as MMR and Strava to encourage greater physical activity while working from home. Although offices will be reopening and peoples activity will increase -we feel these events should be encouraged for those who favour working from home and will continue to do so. 
  
-3.       There are many resources available online that can help negate the negative effects of working from home e.g. people who are sitting at a kitchen table all day could make use of Online yoga sessions to help with back pain as a result.
+3. There are many resources available online that can help negate the negative effects of working from home e.g. people who are sitting at a kitchen table all day could make use of Online yoga sessions to help with back pain as a result.
  
-4.       Many rely on meals offered by Fidelity in the canteens – a forum where people can deposit meal ideals could have a positive impact on those who choose to continue WFH.
+4. Many rely on meals offered by Fidelity in the canteens – a forum where people can deposit meal ideals could have a positive impact on those who choose to continue WFH.
  
-5.       Managers could organize meetings between, which as such should be informal – just to check up on others and enforce ‘casual collisions’ and daily life that would be discussed about in the office. This would help establish a rapport further with networks. 
+5. Managers could organize meetings between, which as such should be informal – just to check up on others and enforce ‘casual collisions’ and daily life that would be discussed about in the office. This would help establish a rapport further with networks. 
  
-6.       While in the office, it may be easy to see when someone is having an ‘off-day’, which is impossible to see while at home. Frequent check ups with managers/ qualified persons where employees engage in open dialoue regareding their mental health could be beneficial.
+6. While in the office, it may be easy to see when someone is having an ‘off-day’, which is impossible to see while at home. Frequent check ups with managers/ qualified persons where employees engage in open dialoue regareding their mental health could be beneficial.
 
 
-## Slide 13: Work environment - Lara
+## Slide 11: Work environment - Lara
 
-In our survey we discovered that even though people want to work more from home 
-Office still plays an important role 
-More than 60% said want to come in once or twice per week
+* In our survey we discovered that even though people want to work more from home 
+* Office still plays an important role 
+* More than 60% said want to come in once or twice per week
 
 Time in the office:
-That means that time in the office becomes Valuable
-To make the most out of it, it Needs planning:
-Scrum Master / Manager
-Get as people many in
-Activities that require collaboration and creativity
-Not only work
- lunch, coffee
-Suggestion: come up with a “Booking system” for hot desks desks 
-Team can sit together for that day
-People miss just turning around and asking a question to their coworkers
+* That means that time in the office becomes Valuable
+* To make the most out of it, it Needs planning:
+	* Scrum Master / Manager
+	* Get as people many in
+	* Activities that require collaboration and creativity
+* Not only work
+	*  lunch, coffee
+* Suggestion: come up with a “Booking system” for hot desks desks 
+* Team can sit together for that day
+* People miss just turning around and asking a question to their coworkers
 
 
-## Slide 14: Our Onboarding Experience - Ali
+## Slide 12: Our Onboarding Experience - Ali
 
-In office onboarding:
-
+Ali – In office onboarding: <br>
 The onboarding process is crucial for organizations to get right as they need to create a positive first impression for their new hires.  They need to familiarize their new employee with the organization’s culture, polices, benefits, training available and help form social connections with colleagues. 
 Both Sophie and I had completely different onboarding experiences. I had my onboarding in the office, which started with a daylong induction event for all the Interns. The event included presentations giving an overview on Fidelity, Risk Management, IT, Project Team and HR. A networking breakfast and lunch was also organized for all the Interns to get to chat to each other and break up our day. 
 On the same day, I was given the opportunity to get introduced to my Team and see where I would be working in the office. My onboarding continued with my Team organizing 1-1’s with me for training. I found the in-office onboarding positive as I was able to build a relationship with my team from day one and found it easier to be able to have my questions answered instantly. 
 
+Sophie- <br>
+As I mentioned earlier I was one of the interns that was onboarded virtually.Like everyone else we had to adapt to change. Our first day was a full day of presentations from members of the hr and risk team. Prior to this we were split out into breakout rooms to try build relationships with the other interns. The majority of my training for the cash reconciliation team was done over zoom. My normal day for the first 6-8 weeks would be to log on to a zoom chat at 8:30 break for an hour at lunch and then log back in until half 5. 8hr zoom calls 5 dyas a week can become draining and repetitive which is why myself and ali have thought of a few suggestions
 
-## Slide 15: Your Home Workspace - Monika
+
+Suggestions Ali/Sophie: <br>
+Managers may face difficulties when onboarding their new hires virtually as they cannot physically see them working, their new hires progress is only monitored through their 1-1's. This puts more of a responsibility on managers to make sure that their new hires are socially connected within their teams. Therefore, we need to create a personal onboarding experience with a blend of in classroom and virtual onboarding taking into account both high scale and low scale onboarding. 
+Buddy Scheme (sophie)
+* In office – presentations
+* Virtual – risk & compliance training (sophie)
+* First day – Meet team in office 
+
+
+## Slide 13: Your Home Workspace - Monika
 
 Setting up a good home workspace can help you stay focused during the day,  
 So here’s a few things you should consider. 
@@ -167,6 +183,43 @@ Open a window – make sure that if it’s possible you open a window in the roo
   
 And lastly – have a drink at your desk. Staying hydrated is overlooked when working from home. It can be easy to get up and get a glass of water or a coffee while in the office but once we're stuck at home we often forget about taking drinks regularly.  
 
-## Slide 1: Your Home Workspace - Monika
+## Slide 14: Including everyone in the team - Graham
+
+We already know: 
+* Diversity and Inclusion is a huge part of Fidelity's core principles.
+* We believe the future workforce will be as diverse and as equal as possible
+
+What we might not already know:
+* With the future work force being a mix of WFH and Office work, improving this will enable even more inclusion than already possible and allow potentially fully remote work. 
+* Working from home can help people who may face difficulty getting to the office.
+* If a team member must stay at home for a day, it will be easier to collaborate with them as the team is already efficiently trained for remote collaboration.
+
+## Slide 15: Diversity in Fidelity  - Brian
+
+* We currently live in times of severe social volatility, and it is now more than ever we need to come together, albeit virtually, and celebrate the Fidelity’s vastly diverse workforce. 
+* Fidelity offers a plethora of resource groups and events that help to celebrate and support the ever-growing diversity within the organisation – examples of which are; ASPIRE - which enables employees to enhance their connection to the Black/AA/Latino/Hispanic cultures, Fidelity Pride (LGBT+ community) and Fidelity Enable which focuses on the inclusion and empowerment of those working with disabilities. 
+* WFH makes it difficult to organise events celebrating diversity and enhancing inclusivity in the company. Many events are held in the office to further acknowledge and celebrate the various cultures, backgrounds and minorities and spread across the organisation. Such events give employees opportunities to embrace diversity, but the same ‘buzz’ around these events would wain virtually but should definitely continue as normal. 
+* Fidelity Foundation
+
+## Slide 16: Summary - Dale
+
+Going back to the question “What do you believe the future workforce will look like”
+
+We believe that WFH is the future. And if executed well, it’ll be a huge benefit moving forward. <br>
+Before, WFH was seen as sort of thought of as a special exception more than an option. <br>
+Now that we know how effective it can be. We can utilise this. 
+This especially help people with children and that need to be at home or people who live far away.
 
 
+The 3 biggest challenges we faced in our survey were communication, regular schedule and Work enviroment
+* Our main solutions were active collaboration and collaboration day
+* A good schedule involes planning a routing and have some workshop
+* A good workspace needs good diverity and equiptment
+
+And these points kind of ties in with the second part of the topic question asking how important is social interaction.  And I think these 3 points has a huge effect on your social interaction.
+	* it can have big impact in how an individual could work, mental health and daily routine.
+	* Ideally, we’d want to replicate the kind of communication we have in an office but at home. 
+
+## Slide 17: Outro - Dale
+
+That is our presentation, Thank you very much for listening. And we’d be happy to answer any questions.
