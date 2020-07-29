@@ -1,27 +1,26 @@
 ## Slide 1: Intro - Dale
 
-Hello, good evening everyone. We are the first group and we’re here to present our 2020 intern project challenge.
-My Name is Draven Dale Calabia and I'm joint with Ali, Lara, Sophie, Graham, Brian and Monika
+Hello, good evening everyone. We’re the first group and our group name is Quaranteam. and we’re here to present our 2020 intern project challenge. My Name is Dale and I’m joint with Ali, Lara, Sophie, Graham, Brian and Monika.
 
-Our topic of discussion is as you can see on the screen. In short, we’re being asking, what do we believe that future workforce will look like post-covid 19 and how important we think it is to maintain social interactions.
+Our topic of discussion is as you can see on the screen. what do we believe that future workforce will look like and how important it is to maintain social interactions.
 
-We believe that working from home will play a vital role in the future.
-To further strengthen our points, we’ve made a short survey that we gave to our colleges and friends outside of fidelity. And you’ll hear us reference this survey throughout our presentation. But one of our most important questions on our our survey is 
+To further strengthen our points, we’ve made a short survey that we gave to our colleges and friends outside of fidelity. And you’ll hear us reference this survey throughout our presentation.
 
 ## Slide 2: Survey - Dale
 
-What are the TOP THREE biggest challenges you are currently facing while working remotely? 
-So we gave them some options to choose from like internet connectivity, childcare, social interaction. The top 3 problems were Communication, keeping a regular schedule and your work environment. So throughout our survey we focused on these 3 points and gave our solutions based on our thoughts and survey results.
+So We believe that working from home will play a vital role in the future.
+And in our survey, we asked What are the TOP THREE biggest challenges you are currently facing while working remotely? 
+So we gave them a bunch of some options to choose from.
 
-
+And the top 3 problems were Communication, keeping a regular schedule and your work environment. We based our solutions and Ideas of our presentation around these 3 points.
 
 ## Slide 3: The New Normal - Sophie
 
-Within 2 weeks fidelity ireland went fully remote, meaning approximately 1100 employees are working from home. The covid 19 pandemic has affected us all yet fidelity;s quick thinking and agile workforce kept up momentum and proved that with the right equipment and constant streams of communication and support we are able to work efficiently from home without damaging fidelitys reputation or customer satisfaction. 
+Within 2 weeks fidelity Ireland went fully remote, meaning approximately 1100 employees are working from home. The covid 19 pandemic has affected us all yet fidelity’s quick thinking and agile workforce kept up momentum and proved that with the right equipment and constant streams of communication and support we are able to work efficiently from home without damaging fidelity's reputation or customer satisfaction. 
 
-My internship experience will differ to any past fidelity interns as I never got to see the office. I started in fidelity in mid april in the height on the pandemic. I was fully on boarded virtually meaning hours of intense online training using tools such as teams and zoom. On average fidelity use up to 4million zoom minutes a day worldwide which shows the constant stream on communication and level of interactions the company still have day to day.
+My internship experience will differ to any past fidelity interns as I never got to see the office. I started in fidelity in mid April in the height on the pandemic. I was fully on boarded virtually meaning hours of intense online training using tools such as teams and zoom. On average fidelity use up to 4million zoom minutes a day worldwide which shows the constant stream on communication and level of interactions the company still have day to day.
 
-Im very lucky to have gained the experience of working through covid 19 as many other college student had their internships cancelled as they business was unable to give adequate training virtually. The fact that fidelity were hiring and not firing over the last few months shows that even though working from home may be the new normal its business as usual. 
+I'm very lucky to have gained the experience of working through covid 19 as many other college student had their internships cancelled as they business was unable to give adequate training virtually. The fact that fidelity were hiring and not firing over the last few months shows that even though working from home may be the new normal its business as usual. 
 
 ## Slide 4: How will decentralised teams collaborate? - Graham
 
@@ -86,18 +85,13 @@ We have some suggestions of tools that may be needed:
 
 ## Slide 8: Social Interaction - Ali
 
-Social Interactions are extremely valued within organisations. As you can see from our survey results social isolation and communication with co-workers are major challenges that people face from WFH. Not only are social interactions good for your mental health, but they also help with productivity. The happier you are, the more likely you are to be productive.
- It is important to note that not every associate is living with their family or friends, so their social interactions in the workplace may be the only ones they have day-day. Therefore, it is vital that we maintain social interactions across dispersed teams and take advantage of our readily available collaboration tools that provide face-face contact like zoom or skype. Face-face contact is essential for creating relationships with one another. 
-
-* Coffee break
-* Team quiz
-* Collaborative activity
-* Book club
-* Team walk
-* Team lunch
-* Virtual entertainment
-* Buddy scheme
-* Daily social time
+Social Interactions are extremely valued within organisations. As you can see from our survey results social isolation and communication with co-workers are major challenges that people face from WFH. Not only are social interactions good for your mental health, but they also help with productivity. The happier you are, the more likely you are to be productive.  
+ It is important to note that not every associate is living with their family or friends, so their social interactions in the workplace may be the only ones they have day-day. Therefore, it is vital that we maintain social interactions across dispersed teams and take advantage of our readily available collaboration tools that provide face-face contact like zoom or skype. Face-face contact is essential for creating relationships with one another.   
+  
+As you can see from the slide, there are many suggestions for maintain social interactions within dispersed teams.   
+Coffee breaks and lunches are things that we definitely took for granted while we were in the office, as they were a given. To try and bring that sense of normality back to dispersed teams, coffee breaks and lunches could easily be organised through zoom.  
+Organising a team collaborative activity may be another option, for example my team took part in a 'Bake Off' - which was something different from the norm, created purpose to the social interaction and brought about some healthy competition amongst us.   
+(1 minute & 15 secs)..   
 
 ## Slide 9: Work-Life Balance - Monika
 
@@ -153,19 +147,21 @@ Time in the office:
 
 Ali – In office onboarding: <br>
 The onboarding process is crucial for organizations to get right as they need to create a positive first impression for their new hires.  They need to familiarize their new employee with the organization’s culture, polices, benefits, training available and help form social connections with colleagues. 
-Both Sophie and I had completely different onboarding experiences. I had my onboarding in the office, which started with a daylong induction event for all the Interns. The event included presentations giving an overview on Fidelity, Risk Management, IT, Project Team and HR. A networking breakfast and lunch was also organized for all the Interns to get to chat to each other and break up our day. 
-On the same day, I was given the opportunity to get introduced to my Team and see where I would be working in the office. My onboarding continued with my Team organizing 1-1’s with me for training. I found the in-office onboarding positive as I was able to build a relationship with my team from day one and found it easier to be able to have my questions answered instantly. 
+
+Both Sophie and I had completely different onboarding experiences. I had my onboarding in the office, which started with a daylong induction event for all the Interns. The event included presentations giving an overview on Fidelity and a networking breakfast and lunch which was also organized for all the Interns to get to chat to each other and break up our day. 
+
+Unlike Sophie, I was given the opportunity to get introduced to my Team in person and see where I would be working in the office. My onboarding continued with my Team organizing 1-1’s with me for training. I found the in-office onboarding positive as I was able to build a relationship with my team from day one and found it easier to be able to have my questions answered instantly.  (55 secs)
+
 
 Sophie- <br>
-As I mentioned earlier I was one of the interns that was onboarded virtually.Like everyone else we had to adapt to change. Our first day was a full day of presentations from members of the hr and risk team. Prior to this we were split out into breakout rooms to try build relationships with the other interns. The majority of my training for the cash reconciliation team was done over zoom. My normal day for the first 6-8 weeks would be to log on to a zoom chat at 8:30 break for an hour at lunch and then log back in until half 5. 8hr zoom calls 5 dyas a week can become draining and repetitive which is why myself and ali have thought of a few suggestions
+As I mentioned earlier, I was one of the interns that was onboarded virtually. Like everyone else we had to adapt to change. Our first day was a full day of presentations from members of the hr and risk team. Prior to this we were split out into breakout rooms to try build relationships with the other interns. The majority of my training for the cash reconciliation team was done over zoom. My normal day for the first 6-8 weeks would be to log on to a zoom chat at 8:30 break for an hour at lunch and then log back in until half 5. 8hr zoom calls 5 days a week can become draining and repetitive which is why myself and ali have thought of a few suggestions
 
+Buddy Scheme (sophie) 
+  * A person on your team or even another intern that you can turn to if you need a catch up or break like ali had mentioned previously a virtual coffee break or lunch to keep up those day to day interactions and have a positive effect on efficient working and mental health, your buddy would be there if you have any questions you need answered 
+ 
+Virtual – risk & compliance training (sophie) 
+* We also believe another approach to online training may be beneficial. We think that a mix of zoom calls and use of other platforms like udemy may help break up the day and still be just as effective. When starting in fidelity we all had to take time out of our day to do personal risk and compliance training through fidelity central.what we are proposing is that by using personal deployment tools like udemy that new employees may be able to learn theory behind the process before using zoom or pair programming like lara had mentioned to develop knowledge and skills
 
-Suggestions Ali/Sophie: <br>
-Managers may face difficulties when onboarding their new hires virtually as they cannot physically see them working, their new hires progress is only monitored through their 1-1's. This puts more of a responsibility on managers to make sure that their new hires are socially connected within their teams. Therefore, we need to create a personal onboarding experience with a blend of in classroom and virtual onboarding taking into account both high scale and low scale onboarding. 
-Buddy Scheme (sophie)
-* In office – presentations
-* Virtual – risk & compliance training (sophie)
-* First day – Meet team in office 
 
 
 ## Slide 13: Your Home Workspace - Monika
@@ -199,27 +195,31 @@ What we might not already know:
 * We currently live in times of severe social volatility, and it is now more than ever we need to come together, albeit virtually, and celebrate the Fidelity’s vastly diverse workforce. 
 * Fidelity offers a plethora of resource groups and events that help to celebrate and support the ever-growing diversity within the organisation – examples of which are; ASPIRE - which enables employees to enhance their connection to the Black/AA/Latino/Hispanic cultures, Fidelity Pride (LGBT+ community) and Fidelity Enable which focuses on the inclusion and empowerment of those working with disabilities. 
 * WFH makes it difficult to organise events celebrating diversity and enhancing inclusivity in the company. Many events are held in the office to further acknowledge and celebrate the various cultures, backgrounds and minorities and spread across the organisation. Such events give employees opportunities to embrace diversity, but the same ‘buzz’ around these events would wain virtually but should definitely continue as normal. 
-* Fidelity Foundation
+* Fidelity have been very proactive in supporting Racial Equity in the past few months while working from home . Associates have donated in excess of $480,000 to the Fidelity Foundation – which the organization has matched twofold summing to $1.44m in donations. Emails and notices sent by the company encouraging further donations to the foundation could be hugely beneficial.
+
 
 ## Slide 16: Summary - Dale
 
 Going back to the question “What do you believe the future workforce will look like”
 
-We believe that WFH is the future. And if executed well, it’ll be a huge benefit moving forward. <br>
-Before, WFH was seen as sort of thought of as a special exception more than an option. <br>
-Now that we know how effective it can be. We can utilise this. 
-This especially help people with children and that need to be at home or people who live far away.
+We believe that WFH is the future. And if executed well, it’ll be a huge benefit moving forward. 
+Before, WFH was sort of thought of as a special exception and now we think that its more of an option that everyone can choose from.
 
 
-The 3 biggest challenges we faced in our survey were communication, regular schedule and Work enviroment
-* Our main solutions were active collaboration and collaboration day
-* A good schedule involes planning a routing and have some workshop
-* A good workspace needs good diverity and equiptment
+Our main solutions throughout the presentations were 
+* collaboration day
+* Planning a routing, have daily events and workshop
+* Utilize diversity recourses and have suitable work from equipment
 
-And these points kind of ties in with the second part of the topic question asking how important is social interaction.  And I think these 3 points has a huge effect on your social interaction.
-	* it can have big impact in how an individual could work, mental health and daily routine.
-	* Ideally, we’d want to replicate the kind of communication we have in an office but at home. 
+
+And these points kind of ties in with the second part of the topic question asking how important is social interaction. And we think these 3 points has a huge effect on interact socially. It can have big impact in how an individual could work, their mental health and their daily routine. 
+
+The end goal is replicate the kind of communication you’d have in an office but at home.
+	
+And we think that these points help that. 
+
 
 ## Slide 17: Outro - Dale
 
-That is our presentation, Thank you very much for listening. And we’d be happy to answer any questions.
+That is our presentation we are group Quaranteam, Thank you very much for listening. And we’d be happy to answer any questions.
+
